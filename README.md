@@ -61,3 +61,17 @@ Contributors
 * Mark Galloway
 * Abram Hindle
 * Cole Mackenzie
+* Shubham Bajoria
+
+External source code referenced 
+============
+In sockets.py,
+<br/>
+Source for the lines 30-47, 100-110,119-131   is https://github.com/abramhindle/WebSocketsExamples/blob/master/chat.py
+<br/>
+
+
+
+
+
+
