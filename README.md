@@ -21,6 +21,7 @@ Contributors / Licensing
 ========================
 
 Generally everything is LICENSE'D under the Apache 2 license by Abram Hindle.
+Additions to socket.py and index.html is LICENSE'D under the Apache 2 license by Shubham Bajoria.
 
 freetests.py is LICENSE'D under a BSD-like license:
 
